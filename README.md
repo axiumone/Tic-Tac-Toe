@@ -437,4 +437,4 @@ machine_civil_war = Game.new(10, h: true, u: true, e: true)
 machine_civil_war.play
 No skynet anytime soon.
 
-†The Turing test
+†The Turing test - https://en.wikipedia.org/wiki/Turing_test
